@@ -1,0 +1,9 @@
+To create conda env:
+`conda create -n pytorch-notes`
+
+To activate conda env:
+`conda activate pytorch-notes`
+
+To install packages:
+`conda env update --file env.yaml` (just copy-paste env.yaml and the do this)
+
